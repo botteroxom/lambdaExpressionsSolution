@@ -7,6 +7,7 @@ namespace lambdaExpressions
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            //Console.WriteLine("Hello World!");
             var test = new Table<User>();
             var yea = false;
             var me = "Me";
